@@ -1,0 +1,11 @@
+{
+  "test_size": 0.2,
+  "random_state": 42,
+  "train_samples": 120,
+  "test_samples": 30,
+  "class_labels": [
+    "setosa",
+    "versicolor",
+    "virginica"
+  ]
+}

@@ -1,0 +1,13 @@
+
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+*.egg-info/
+
+# Ignore generated trained models
+outputs/models/*.joblib
+
+# Keep generated plots and evaluation results
+# Track only files that are useful for the submission
